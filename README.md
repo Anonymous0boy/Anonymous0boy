@@ -82,7 +82,7 @@
   <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
 </li>
 <li>
-  <a href="https://instagram.com/@lakshay_tyagi111">
+  <a href="https://instagram.com/lakshay_tyagi111">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
 </li>
